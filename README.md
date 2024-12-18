@@ -34,3 +34,20 @@
   <img src="https://img.shields.io/badge/CoreLocation-6610F2?style=for-the-badge" alt="CoreLocation" />
   <img src="https://img.shields.io/badge/Gemini-FF5733?style=for-the-badge" alt="Gemini" />
 </p>
+
+<h3>App Intents Demo (individual project)</h3>
+
+<a href="https://github.com/jorgelso/App-Intent-Demo-Full">App Intents Timer Demo</a> is a simple yet practical iOS app designed to showcase the functionality of Apple's App Intents framework. Created as part of a workshop for participants with varying levels of experience in Swift and SwiftUI, this demo app allows users to set a timer via Siri and integrate it with automations to restrict access to specific apps. Its purpose was to provide a hands-on introduction to App Intents, demonstrating how developers can enhance app interactions with Siri, Spotlight, and automation. The app was made with simplicity in mind, ensuring that even beginners with no SwiftUI experience could engage with the framework and understand its potential for creating more seamless user experiences.
+
+<h4>GIFs</h4>
+
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github.com/jorgelso/Swift-Portfolio/blob/main/Workshop.gif" width="90%" />
+    <img src="https://github.com/jorgelso/Swift-Portfolio/blob/main/Automation.gif" width="90%" />
+</p>
+
+<h4>Technologies Used</h4>
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/App_Intents-007BFF?style=for-the-badge" alt="App Intents" />
+  <img src="https://img.shields.io/badge/SwiftUI-FFC107?style=for-the-badge" alt="SwiftUI" />
+</p>
